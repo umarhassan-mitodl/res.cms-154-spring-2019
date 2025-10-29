@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-cms-154-launching-innovation-in-schools-spring-2019/e67abbdb67a8530c9dfbafc253b14066_RES-CMS-154S19_th.jpg
 file_size: 31036
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Cycle of study, experimentation, and reflection. (Image by MIT OpenCourseWare.)
   credit: ''
